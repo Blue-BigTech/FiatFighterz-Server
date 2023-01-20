@@ -1,0 +1,217 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ProdPackager/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.3.111.23",
+          "TitanDatabase": "1.0.0",
+          "Utils.NET": "1.0.0",
+          "unirest-netcore20": "1.0.1"
+        },
+        "runtime": {
+          "ProdPackager.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.107.22": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.107.22"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.106.17": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.22"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.106.17"
+          }
+        }
+      },
+      "AWSSDK.EC2/3.3.187.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.22"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.EC2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.187.1"
+          }
+        }
+      },
+      "AWSSDK.S3/3.3.111.23": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.22"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.111.23"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.163": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.22"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.163"
+          }
+        }
+      },
+      "BouncyCastle/1.8.9": {
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.9.0",
+            "fileVersion": "1.8.20343.1"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "unirest-netcore20/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/unirest-netcore20.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "TitanCore/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanCore.dll": {}
+        }
+      },
+      "TitanDatabase/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.106.17",
+          "AWSSDK.EC2": "3.3.187.1",
+          "AWSSDK.SimpleEmail": "3.3.101.163",
+          "TitanCore": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanDatabase.dll": {}
+        }
+      },
+      "Utils.NET/1.0.0": {
+        "dependencies": {
+          "BouncyCastle": "1.8.9",
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Utils.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProdPackager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.107.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j9oQ1Kw19j37Aq5aYhh9kBi07GOq7PYG8DCRDuUtRvRXhFeFaUFORkoHrppKilVf9jUlYSFI30wpu0+3VYNYMQ==",
+      "path": "awssdk.core/3.3.107.22",
+      "hashPath": "awssdk.core.3.3.107.22.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.106.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A8+xM4QK/UFEUlTgaJboicbYISqMCtNDJiIf1RianHh6Q9mNVh8A0xgVNSi1uQgXPR26gM9enaVFGTpiHae+DQ==",
+      "path": "awssdk.dynamodbv2/3.3.106.17",
+      "hashPath": "awssdk.dynamodbv2.3.3.106.17.nupkg.sha512"
+    },
+    "AWSSDK.EC2/3.3.187.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MSsJTS2OPALZ0v1qz4tSJn7EKIuydxAhPV8B0/TYMKg0hLnQZQMd8LEPolHxxUXZgwBS1tUujJM2M7zL2Q2Z0A==",
+      "path": "awssdk.ec2/3.3.187.1",
+      "hashPath": "awssdk.ec2.3.3.187.1.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.3.111.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Tzm5AT1YZPRUHdXQcjf5lczw14S4alpcLm9SpYjbl3Ud6bT8xlY5coD5usbE44OFGx1TEy4pz1+C3/CjObhPQ==",
+      "path": "awssdk.s3/3.3.111.23",
+      "hashPath": "awssdk.s3.3.3.111.23.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.3.101.163": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4kR+2moW/fgOy4Ml+79GwRaqGax+rzW7ZQMUZ+pz8hJFXG/PqMbSHY2XhTLmIvQ+jbeKAYqqp4xxF6fkkMifg==",
+      "path": "awssdk.simpleemail/3.3.101.163",
+      "hashPath": "awssdk.simpleemail.3.3.101.163.nupkg.sha512"
+    },
+    "BouncyCastle/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-axnBgvdD5n+FnEG6efk/tfKuMFru7R/EoISH9zjh319yb3HD24TEHSAbNN/lTRT2ulOGRxDgOsCjkuk08iwWPg==",
+      "path": "bouncycastle/1.8.9",
+      "hashPath": "bouncycastle.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "unirest-netcore20/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-697U+ydDTMQreUn0rArcDbNNcsHBbsWTICuzv26hXhuLMq3kH9FK2DM5aI2J4xCu7tSCsGrDkSDUFOAA/9gfsw==",
+      "path": "unirest-netcore20/1.0.1",
+      "hashPath": "unirest-netcore20.1.0.1.nupkg.sha512"
+    },
+    "TitanCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TitanDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

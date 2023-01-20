@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{865C0AB3-AB1D-43B3-A9FE-B7C8DBCA364E}|Default">
+  <MonoDevelop.Ide.ItemProperties.RunConfigs.Testing.TestingPackager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebServer/WebServer.cs">
+    <Files>
+      <File FileName="World/WorldModule.cs" Line="208" Column="54" />
+      <File FileName="TitanDatabase/Database.cs" Line="301" Column="62" />
+      <File FileName="WebServer/WebServer.cs" Line="1038" Column="88" />
+      <File FileName="WebServer/CryptoVerify.cs" Line="25" Column="68" />
+      <File FileName="TitanDatabase/ItemReader.cs" Line="58" Column="82" />
+      <File FileName="TitanDatabase/Models/Model.cs" Line="10" Column="27" />
+      <File FileName="TitanDatabase/Models/Character.cs" Line="18" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Project-Titan" expanded="True">
+            <Node name="Libraries" expanded="True">
+              <Node name="TitanCore" expanded="True" />
+              <Node name="TitanDatabase" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Utils.NET" expanded="True">
+                <Node name="Crypto" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Modules" expanded="True">
+              <Node name="WebServer" expanded="True" />
+              <Node name="World" expanded="True" />
+            </Node>
+            <Node name="RunConfigs" expanded="True">
+              <Node name="Local" expanded="True">
+                <Node name="Run.Local.All" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Tools" expanded="True">
+              <Node name="ServerNode" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RunConfigs.Testing.Run.Testing.World PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Tools.UpdatePackager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/wewlad/GitHub/FFserver2/TitanDatabase/Models/EmailVerification.cs" relfile="TitanDatabase/Models/EmailVerification.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RunConfigs.Testing.Run.Testing.WebServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RunConfigs.Local.Run.Local.All PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

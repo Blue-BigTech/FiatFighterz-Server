@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Run.Prod.WebServer
+build_property.ProjectDir = /Users/wewlad/GitHub/FFserver2/Run.Prod.WebServer/

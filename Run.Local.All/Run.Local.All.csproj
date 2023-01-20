@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="characters.xml" />
+    <None Remove="manifest.mfst" />
+    <None Remove="SampleLogicScript.ls" />
+    <None Remove="unirest-netcore20" />
+    <None Remove="Nethereum.Web3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="characters.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="manifest.mfst">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SampleLogicScript.ls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Library\TitanCore\TitanCore.csproj" />
+    <ProjectReference Include="..\WebServer\WebServer.csproj" />
+    <ProjectReference Include="..\World\World.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="unirest-netcore20" Version="1.0.1" />
+  </ItemGroup>
+</Project>

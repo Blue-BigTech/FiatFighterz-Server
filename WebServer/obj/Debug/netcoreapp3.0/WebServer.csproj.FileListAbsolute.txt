@@ -1,0 +1,217 @@
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/titan-server-key.json
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/favicon.png
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/googleapis.json
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Htmls/privacy_policy.html
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Htmls/verify_email.html
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/WebServer.deps.json
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/WebServer.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/WebServer.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/TitanCore.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/TitanCore.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.AssemblyReference.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfoInputs.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfo.cs
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CoreCompileInputs.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CopyComplete
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/favicon.png
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/googleapis.json
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/privacy_policy.html
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/verify_email.html
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.deps.json
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.AssemblyReference.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfoInputs.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfo.cs
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CopyComplete
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/titan-server-key.json
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/favicon.png
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/googleapis.json
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/privacy_policy.html
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/verify_email.html
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.deps.json
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfo.cs
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CopyComplete
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/titan-server-key.json
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/favicon.png
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/googleapis.json
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/privacy_policy.html
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/verify_email.html
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.deps.json
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfo.cs
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CopyComplete
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/favicon.png
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/googleapis.json
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/privacy_policy.html
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Htmls/verify_email.html
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.deps.json
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfo.cs
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CopyComplete
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.AssemblyInfo.cs
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/favicon.png
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/googleapis.json
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Htmls/privacy_policy.html
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Htmls/verify_email.html
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/WebServer.deps.json
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/WebServer.dll
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/WebServer.pdb
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FFserver2/WebServer/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/GitHub/FFserver2/WebServer/obj/Debug/netcoreapp3.0/WebServer.csproj.CopyComplete
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\characters.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\enemies.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\items.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\lootbags.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\pets.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\projectiles.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\skins.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\staticobjects.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Data\Xmls\tiles.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\titan-server-key.json
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\favicon.png
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\googleapis.json
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Htmls\privacy_policy.html
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Htmls\verify_email.html
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\WebServer.deps.json
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\WebServer.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\WebServer.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\TitanCore.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\TitanDatabase.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Utils.NET.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\TitanCore.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\Utils.NET.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\bin\Debug\netcoreapp3.0\TitanDatabase.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\obj\Debug\netcoreapp3.0\WebServer.csprojAssemblyReference.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\obj\Debug\netcoreapp3.0\WebServer.AssemblyInfoInputs.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\obj\Debug\netcoreapp3.0\WebServer.AssemblyInfo.cs
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\obj\Debug\netcoreapp3.0\WebServer.csproj.CopyComplete
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\obj\Debug\netcoreapp3.0\WebServer.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WebServer\obj\Debug\netcoreapp3.0\WebServer.pdb

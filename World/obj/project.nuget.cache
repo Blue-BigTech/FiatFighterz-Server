@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKq9B1Hi24Cec0V4iJ1uV3g+ecpUo1ekaRq2RqfnENQy30I6vW0jBHXLy9mDjn7wVE1SuabFnQk4oyC0Ql+CcA==",
+  "success": true,
+  "projectFilePath": "/Users/wewlad/GitHub/FFserver2/World/World.csproj",
+  "expectedPackageFiles": [
+    "/Users/wewlad/.nuget/packages/awssdk.core/3.3.107.20/awssdk.core.3.3.107.20.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.dynamodbv2/3.3.106.17/awssdk.dynamodbv2.3.3.106.17.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.ec2/3.3.187.1/awssdk.ec2.3.3.187.1.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.simpleemail/3.3.101.163/awssdk.simpleemail.3.3.101.163.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

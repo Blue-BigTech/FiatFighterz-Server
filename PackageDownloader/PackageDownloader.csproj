@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.3.111.22" />
+    <PackageReference Include="unirest-netcore20" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Library\Utils.NET\Utils.NET\Utils.NET.csproj" />
+    <ProjectReference Include="..\TitanDatabase\TitanDatabase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="unirest-netcore20" />
+  </ItemGroup>
+</Project>

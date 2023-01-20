@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\ProdPackager\\ProdPackager.csproj": {}
+  },
+  "projects": {
+    "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\ProdPackager\\ProdPackager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\ProdPackager\\ProdPackager.csproj",
+        "projectName": "ProdPackager",
+        "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\ProdPackager\\ProdPackager.csproj",
+        "packagesPath": "C:\\Users\\7swor\\.nuget\\packages\\",
+        "outputPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\ProdPackager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\7swor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\TitanDatabase\\TitanDatabase.csproj": {
+                "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\TitanDatabase\\TitanDatabase.csproj"
+              },
+              "G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj": {
+                "projectPath": "G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.111.23, )"
+            },
+            "unirest-netcore20": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\TitanDatabase\\TitanDatabase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\TitanDatabase\\TitanDatabase.csproj",
+        "projectName": "TitanDatabase",
+        "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\TitanDatabase\\TitanDatabase.csproj",
+        "packagesPath": "C:\\Users\\7swor\\.nuget\\packages\\",
+        "outputPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\TitanDatabase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\7swor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\TitanCore\\TitanCore.csproj": {
+                "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\TitanCore\\TitanCore.csproj"
+              },
+              "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj": {
+                "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.106.17, )"
+            },
+            "AWSSDK.EC2": {
+              "target": "Package",
+              "version": "[3.3.187.1, )"
+            },
+            "AWSSDK.SimpleEmail": {
+              "target": "Package",
+              "version": "[3.3.101.163, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\TitanCore\\TitanCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\TitanCore\\TitanCore.csproj",
+        "projectName": "TitanCore",
+        "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\TitanCore\\TitanCore.csproj",
+        "packagesPath": "C:\\Users\\7swor\\.nuget\\packages\\",
+        "outputPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\TitanCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\7swor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj": {
+                "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj",
+        "projectName": "Utils.NET",
+        "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj",
+        "packagesPath": "C:\\Users\\7swor\\.nuget\\packages\\",
+        "outputPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\Library\\Utils.NET\\Utils.NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\7swor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.9, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Broadcaster.Testing/1.0.0": {
+        "dependencies": {
+          "ServerBroadcaster": "1.0.0",
+          "Utils.NET": "1.0.0",
+          "unirest-netcore20": "1.0.1"
+        },
+        "runtime": {
+          "Broadcaster.Testing.dll": {}
+        }
+      },
+      "BouncyCastle/1.8.9": {
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.9.0",
+            "fileVersion": "1.8.20343.1"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "unirest-netcore20/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/unirest-netcore20.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "ServerBroadcaster/1.0.0": {
+        "dependencies": {
+          "ServerNode": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "ServerBroadcaster.dll": {}
+        }
+      },
+      "ServerNode/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "ServerNode.dll": {}
+        }
+      },
+      "Utils.NET/1.0.0": {
+        "dependencies": {
+          "BouncyCastle": "1.8.9",
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Utils.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Broadcaster.Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-axnBgvdD5n+FnEG6efk/tfKuMFru7R/EoISH9zjh319yb3HD24TEHSAbNN/lTRT2ulOGRxDgOsCjkuk08iwWPg==",
+      "path": "bouncycastle/1.8.9",
+      "hashPath": "bouncycastle.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "unirest-netcore20/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-697U+ydDTMQreUn0rArcDbNNcsHBbsWTICuzv26hXhuLMq3kH9FK2DM5aI2J4xCu7tSCsGrDkSDUFOAA/9gfsw==",
+      "path": "unirest-netcore20/1.0.1",
+      "hashPath": "unirest-netcore20.1.0.1.nupkg.sha512"
+    },
+    "ServerBroadcaster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerNode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

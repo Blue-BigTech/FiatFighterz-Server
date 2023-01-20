@@ -1,0 +1,5 @@
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\World\obj\Debug\netstandard2.0\World.csproj.AssemblyReference.cache
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\World\obj\Debug\netstandard2.0\World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\World\obj\Debug\netstandard2.0\World.AssemblyInfoInputs.cache
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\World\obj\Debug\netstandard2.0\World.AssemblyInfo.cs
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\World\obj\Debug\netstandard2.0\World.csproj.CoreCompileInputs.cache

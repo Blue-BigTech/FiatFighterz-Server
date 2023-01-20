@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="favicon.png" />
+    <None Remove="googleapis.json" />
+    <None Remove="Htmls\privacy_policy.html" />
+    <None Remove="Htmls\verify_email.html" />
+    <None Remove="unirest-netcore20" />
+    <None Remove="Nethereum.Web3" />
+    <None Remove="Nethereum.Generators" />
+    <None Remove="Nethereum.Generators.Net" />
+    <None Remove="Nethereum.Autogen.ContractApi" />
+    <None Remove="Unity3D.UnityEngine.Networking" />
+    <None Remove="Unity3D.UnityEngine" />
+    <None Remove="Moralis" />
+    <None Remove="Moralis.Web3Api" />
+    <None Remove="Moralis.Web3Api.Core" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="favicon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="googleapis.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Htmls\privacy_policy.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Library\TitanCore\TitanCore.csproj" />
+    <ProjectReference Include="..\..\Library\Utils.NET\Utils.NET\Utils.NET.csproj" />
+    <ProjectReference Include="..\TitanDatabase\TitanDatabase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Htmls\verify_email.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.AndroidPublisher.v3" Version="1.48.0.2016" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="unirest-netcore20" Version="1.0.1" />
+    <PackageReference Include="Nethereum.Generators" Version="4.3.0" />
+    <PackageReference Include="Nethereum.Generators.Net" Version="4.3.0" />
+    <PackageReference Include="Nethereum.Autogen.ContractApi" Version="4.2.0" />
+    <PackageReference Include="Unity3D.UnityEngine" Version="2018.3.5.1" />
+    <PackageReference Include="Moralis" Version="1.0.1" />
+    <PackageReference Include="Moralis.Web3Api" Version="1.0.8" />
+    <PackageReference Include="Moralis.Web3Api.Core" Version="1.0.6" />
+    <PackageReference Include="Nethereum.Web3" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Utils.NET">
+      <HintPath>..\..\Library\Utils.NET\Utils.NET\bin\Debug\netstandard2.0\Utils.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

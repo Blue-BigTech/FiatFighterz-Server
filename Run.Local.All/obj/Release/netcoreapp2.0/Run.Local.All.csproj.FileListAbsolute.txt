@@ -1,0 +1,5 @@
+/Users/wewlad/GitHub/FiatFighterz-Server/Run.Local.All/obj/Release/netcoreapp2.0/Run.Local.All.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/Run.Local.All/obj/Release/netcoreapp2.0/Run.Local.All.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FiatFighterz-Server/Run.Local.All/obj/Release/netcoreapp2.0/Run.Local.All.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/Run.Local.All/obj/Release/netcoreapp2.0/Run.Local.All.AssemblyInfo.cs
+/Users/wewlad/GitHub/FiatFighterz-Server/Run.Local.All/obj/Release/netcoreapp2.0/Run.Local.All.csproj.CoreCompileInputs.cache

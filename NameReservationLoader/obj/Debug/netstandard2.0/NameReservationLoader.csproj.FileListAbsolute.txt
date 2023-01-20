@@ -1,0 +1,5 @@
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\NameReservationLoader\obj\Debug\netstandard2.0\NameReservationLoader.csproj.AssemblyReference.cache
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\NameReservationLoader\obj\Debug\netstandard2.0\NameReservationLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\NameReservationLoader\obj\Debug\netstandard2.0\NameReservationLoader.AssemblyInfoInputs.cache
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\NameReservationLoader\obj\Debug\netstandard2.0\NameReservationLoader.AssemblyInfo.cs
+D:\Desktop\Trials-Of-Titan-main\Trials-Of-Titan-main\Server\Project-Titan\NameReservationLoader\obj\Debug\netstandard2.0\NameReservationLoader.csproj.CoreCompileInputs.cache

@@ -1,0 +1,210 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CheddarModule/1.0.0": {
+        "dependencies": {
+          "PackageDownloader": "1.0.0",
+          "ServerNode": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "CheddarModule.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.107.21": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.107.21"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.106.17": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.21"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.106.17"
+          }
+        }
+      },
+      "AWSSDK.EC2/3.3.187.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.21"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.EC2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.187.1"
+          }
+        }
+      },
+      "AWSSDK.S3/3.3.111.22": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.21"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.111.22"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.163": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.21"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.163"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "PackageDownloader/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.3.111.22",
+          "TitanDatabase": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "PackageDownloader.dll": {}
+        }
+      },
+      "ServerNode/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "ServerNode.dll": {}
+        }
+      },
+      "TitanCore/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanCore.dll": {}
+        }
+      },
+      "TitanDatabase/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.106.17",
+          "AWSSDK.EC2": "3.3.187.1",
+          "AWSSDK.SimpleEmail": "3.3.101.163",
+          "TitanCore": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanDatabase.dll": {}
+        }
+      },
+      "Utils.NET/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Utils.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheddarModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.107.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsLnI8GgAMMwMBfyxYvUPo8EbnBnhC6xtSWYLhm0cuS2/cuczliLxwFX/6bYOJ+J2JdQR7Zk8mm3XVCnCioSYA==",
+      "path": "awssdk.core/3.3.107.21",
+      "hashPath": "awssdk.core.3.3.107.21.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.106.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A8+xM4QK/UFEUlTgaJboicbYISqMCtNDJiIf1RianHh6Q9mNVh8A0xgVNSi1uQgXPR26gM9enaVFGTpiHae+DQ==",
+      "path": "awssdk.dynamodbv2/3.3.106.17",
+      "hashPath": "awssdk.dynamodbv2.3.3.106.17.nupkg.sha512"
+    },
+    "AWSSDK.EC2/3.3.187.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MSsJTS2OPALZ0v1qz4tSJn7EKIuydxAhPV8B0/TYMKg0hLnQZQMd8LEPolHxxUXZgwBS1tUujJM2M7zL2Q2Z0A==",
+      "path": "awssdk.ec2/3.3.187.1",
+      "hashPath": "awssdk.ec2.3.3.187.1.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.3.111.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-87yY2aT3LeZqTvB0nGSb7UMzc+SYTNO1mBH5xPphS8AJD3BdPgnFXsTQ6Wx2mVxP6Dbmf88uiR8Jz/7VrsYZ1A==",
+      "path": "awssdk.s3/3.3.111.22",
+      "hashPath": "awssdk.s3.3.3.111.22.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.3.101.163": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4kR+2moW/fgOy4Ml+79GwRaqGax+rzW7ZQMUZ+pz8hJFXG/PqMbSHY2XhTLmIvQ+jbeKAYqqp4xxF6fkkMifg==",
+      "path": "awssdk.simpleemail/3.3.101.163",
+      "hashPath": "awssdk.simpleemail.3.3.101.163.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "PackageDownloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerNode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TitanCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TitanDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

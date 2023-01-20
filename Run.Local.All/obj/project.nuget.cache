@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBwQzbx4D8pmlPtDyH+B0KptoyoDTh+bhMv6iPeTc7/jopvwZJPUB14GUm73g2Fo4XFsUpAvQRYsQDD1IDehkA==",
+  "success": true,
+  "projectFilePath": "/Users/wewlad/GitHub/FFserver2/Run.Local.All/Run.Local.All.csproj",
+  "expectedPackageFiles": [
+    "/Users/wewlad/.nuget/packages/awssdk.core/3.3.107.20/awssdk.core.3.3.107.20.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.dynamodbv2/3.3.106.17/awssdk.dynamodbv2.3.3.106.17.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.ec2/3.3.187.1/awssdk.ec2.3.3.187.1.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.simpleemail/3.3.101.163/awssdk.simpleemail.3.3.101.163.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/common.logging.core/3.4.1/common.logging.core.3.4.1.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/google.apis/1.48.0/google.apis.1.48.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/google.apis.androidpublisher.v3/1.48.0.2016/google.apis.androidpublisher.v3.1.48.0.2016.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/google.apis.auth/1.48.0/google.apis.auth.1.48.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/google.apis.core/1.48.0/google.apis.core.1.48.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/moralis/1.0.1/moralis.1.0.1.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/moralis.web3api/1.0.8/moralis.web3api.1.0.8.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/moralis.web3api.core/1.0.6/moralis.web3api.core.1.0.6.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nbitcoin.secp256k1/1.0.3/nbitcoin.secp256k1.1.0.3.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.abi/4.3.0/nethereum.abi.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.accounts/4.3.0/nethereum.accounts.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.autogen.contractapi/4.2.0/nethereum.autogen.contractapi.4.2.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.blockchainprocessing/4.3.0/nethereum.blockchainprocessing.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.contracts/4.3.0/nethereum.contracts.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.generators/4.3.0/nethereum.generators.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.generators.net/4.3.0/nethereum.generators.net.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.hex/4.3.0/nethereum.hex.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.jsonrpc.client/4.3.0/nethereum.jsonrpc.client.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.jsonrpc.rpcclient/4.3.0/nethereum.jsonrpc.rpcclient.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.keystore/4.3.0/nethereum.keystore.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.model/4.3.0/nethereum.model.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.rlp/4.3.0/nethereum.rlp.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.rpc/4.3.0/nethereum.rpc.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.signer/4.3.0/nethereum.signer.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.util/4.3.0/nethereum.util.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/nethereum.web3/4.3.0/nethereum.web3.4.3.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/portable.bouncycastle/1.8.2/portable.bouncycastle.1.8.2.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/restsharp/106.12.0/restsharp.106.12.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/unirest-netcore20/1.0.1/unirest-netcore20.1.0.1.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/unity3d.unityengine/2018.3.5.1/unity3d.unityengine.2018.3.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity3D.UnityEngine 2018.3.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity3D.UnityEngine",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

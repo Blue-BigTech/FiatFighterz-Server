@@ -1,0 +1,808 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Run.Local.All/1.0.0": {
+        "dependencies": {
+          "TitanCore": "1.0.0",
+          "WebServer": "1.0.0",
+          "World": "1.0.0",
+          "unirest-netcore20": "1.0.1"
+        },
+        "runtime": {
+          "Run.Local.All.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.107.20": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.107.20"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.106.17": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.106.17"
+          }
+        }
+      },
+      "AWSSDK.EC2/3.3.187.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.EC2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.187.1"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.163": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.163"
+          }
+        }
+      },
+      "BouncyCastle/1.8.9": {
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.9.0",
+            "fileVersion": "1.8.20343.1"
+          }
+        }
+      },
+      "Common.Logging.Core/3.4.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Common.Logging.Core.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.0.0"
+          }
+        }
+      },
+      "Google.Apis/1.48.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.48.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Google.Apis.AndroidPublisher.v3/1.48.0.2016": {
+        "dependencies": {
+          "Google.Apis": "1.48.0",
+          "Google.Apis.Auth": "1.48.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.AndroidPublisher.v3.dll": {
+            "assemblyVersion": "1.48.0.2016",
+            "fileVersion": "1.48.0.2016"
+          }
+        }
+      },
+      "Google.Apis.Auth/1.48.0": {
+        "dependencies": {
+          "Google.Apis": "1.48.0",
+          "Google.Apis.Core": "1.48.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          },
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Google.Apis.Core/1.48.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Moralis/1.0.1": {
+        "dependencies": {
+          "Moralis.Web3Api.Core": "1.0.6",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Moralis.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Moralis.Web3Api/1.0.8": {
+        "dependencies": {
+          "Moralis.Web3Api.Core": "1.0.6",
+          "Newtonsoft.Json": "13.0.1",
+          "RestSharp": "106.12.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Moralis.Web3Api.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
+      "Moralis.Web3Api.Core/1.0.6": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "RestSharp": "106.12.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Moralis.Web3Api.Core.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "NBitcoin.Secp256k1/1.0.3": {
+        "runtime": {
+          "lib/netcoreapp2.1/NBitcoin.Secp256k1.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "Nethereum.ABI/4.3.0": {
+        "dependencies": {
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.ABI.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Accounts/4.3.0": {
+        "dependencies": {
+          "Nethereum.KeyStore": "4.3.0",
+          "Nethereum.RPC": "4.3.0",
+          "Nethereum.Signer": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Accounts.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Autogen.ContractApi/4.2.0": {},
+      "Nethereum.BlockchainProcessing/4.3.0": {
+        "dependencies": {
+          "Nethereum.Contracts": "4.3.0",
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.JsonRpc.RpcClient": "4.3.0",
+          "Nethereum.RPC": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.BlockchainProcessing.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Contracts/4.3.0": {
+        "dependencies": {
+          "Nethereum.ABI": "4.3.0",
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.RPC": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Contracts.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Generators/4.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/Nethereum.Generators.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Generators.Net/4.3.0": {
+        "dependencies": {
+          "Nethereum.Generators": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nethereum.Generators.Net.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Hex/4.3.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Hex.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.JsonRpc.Client/4.3.0": {
+        "dependencies": {
+          "Common.Logging.Core": "3.4.1",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.JsonRpc.Client.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.JsonRpc.RpcClient/4.3.0": {
+        "dependencies": {
+          "Nethereum.JsonRpc.Client": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.JsonRpc.RpcClient.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.KeyStore/4.3.0": {
+        "dependencies": {
+          "Nethereum.Hex": "4.3.0",
+          "Newtonsoft.Json": "13.0.1",
+          "Portable.BouncyCastle": "1.8.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.KeyStore.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Model/4.3.0": {
+        "dependencies": {
+          "Nethereum.RLP": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Model.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.RLP/4.3.0": {
+        "dependencies": {
+          "Nethereum.Hex": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.RLP.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.RPC/4.3.0": {
+        "dependencies": {
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.JsonRpc.Client": "4.3.0",
+          "Nethereum.Model": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.RPC.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Signer/4.3.0": {
+        "dependencies": {
+          "NBitcoin.Secp256k1": "1.0.3",
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.Model": "4.3.0",
+          "Nethereum.RLP": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1",
+          "Portable.BouncyCastle": "1.8.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Signer.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Util/4.3.0": {
+        "dependencies": {
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.RLP": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Util.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Nethereum.Web3/4.3.0": {
+        "dependencies": {
+          "Nethereum.ABI": "4.3.0",
+          "Nethereum.Accounts": "4.3.0",
+          "Nethereum.BlockchainProcessing": "4.3.0",
+          "Nethereum.Contracts": "4.3.0",
+          "Nethereum.Hex": "4.3.0",
+          "Nethereum.JsonRpc.RpcClient": "4.3.0",
+          "Nethereum.KeyStore": "4.3.0",
+          "Nethereum.RPC": "4.3.0",
+          "Nethereum.Signer": "4.3.0",
+          "Nethereum.Util": "4.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Nethereum.Web3.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.8.2": {},
+      "RestSharp/106.12.0": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.12.0.0",
+            "fileVersion": "106.12.0.0"
+          }
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.4": {},
+      "unirest-netcore20/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/unirest-netcore20.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "runtime": {
+          "lib/UnityEngine.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "TitanCore/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanCore.dll": {}
+        }
+      },
+      "TitanDatabase/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.106.17",
+          "AWSSDK.EC2": "3.3.187.1",
+          "AWSSDK.SimpleEmail": "3.3.101.163",
+          "TitanCore": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanDatabase.dll": {}
+        }
+      },
+      "Utils.NET/1.0.0": {
+        "dependencies": {
+          "BouncyCastle": "1.8.9",
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "Utils.NET.dll": {}
+        }
+      },
+      "WebServer/1.0.0": {
+        "dependencies": {
+          "Google.Apis.AndroidPublisher.v3": "1.48.0.2016",
+          "Moralis": "1.0.1",
+          "Moralis.Web3Api": "1.0.8",
+          "Moralis.Web3Api.Core": "1.0.6",
+          "Nethereum.Autogen.ContractApi": "4.2.0",
+          "Nethereum.Generators": "4.3.0",
+          "Nethereum.Generators.Net": "4.3.0",
+          "Nethereum.Web3": "4.3.0",
+          "Newtonsoft.Json": "13.0.1",
+          "TitanCore": "1.0.0",
+          "TitanDatabase": "1.0.0",
+          "Unity3D.UnityEngine": "2018.3.5.1",
+          "Utils.NET": "1.0.0",
+          "unirest-netcore20": "1.0.1"
+        },
+        "runtime": {
+          "WebServer.dll": {}
+        }
+      },
+      "World/1.0.0": {
+        "dependencies": {
+          "AWSSDK.EC2": "3.3.187.1",
+          "TitanCore": "1.0.0",
+          "TitanDatabase": "1.0.0",
+          "Utils.NET": "1.0.0",
+          "WorldGen": "1.0.0"
+        },
+        "runtime": {
+          "World.dll": {}
+        }
+      },
+      "WorldGen/1.0.0": {
+        "dependencies": {
+          "TitanCore": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "WorldGen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Run.Local.All/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.107.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oLGgv5mtIddHwEEIw4Q0PnkgYLY+NIokPgMs19E7BPxdhrL3ePuaT+mublGGc0e3xuwjWSxWDjYChYYo8/CQGQ==",
+      "path": "awssdk.core/3.3.107.20",
+      "hashPath": "awssdk.core.3.3.107.20.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.106.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A8+xM4QK/UFEUlTgaJboicbYISqMCtNDJiIf1RianHh6Q9mNVh8A0xgVNSi1uQgXPR26gM9enaVFGTpiHae+DQ==",
+      "path": "awssdk.dynamodbv2/3.3.106.17",
+      "hashPath": "awssdk.dynamodbv2.3.3.106.17.nupkg.sha512"
+    },
+    "AWSSDK.EC2/3.3.187.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MSsJTS2OPALZ0v1qz4tSJn7EKIuydxAhPV8B0/TYMKg0hLnQZQMd8LEPolHxxUXZgwBS1tUujJM2M7zL2Q2Z0A==",
+      "path": "awssdk.ec2/3.3.187.1",
+      "hashPath": "awssdk.ec2.3.3.187.1.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.3.101.163": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4kR+2moW/fgOy4Ml+79GwRaqGax+rzW7ZQMUZ+pz8hJFXG/PqMbSHY2XhTLmIvQ+jbeKAYqqp4xxF6fkkMifg==",
+      "path": "awssdk.simpleemail/3.3.101.163",
+      "hashPath": "awssdk.simpleemail.3.3.101.163.nupkg.sha512"
+    },
+    "BouncyCastle/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-axnBgvdD5n+FnEG6efk/tfKuMFru7R/EoISH9zjh319yb3HD24TEHSAbNN/lTRT2ulOGRxDgOsCjkuk08iwWPg==",
+      "path": "bouncycastle/1.8.9",
+      "hashPath": "bouncycastle.1.8.9.nupkg.sha512"
+    },
+    "Common.Logging.Core/3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wLHldZHvxsSD6Ahonfj00/SkfHfKqO+YT6jsUwVm8Rch1REL9IArHAcSLXxYxYfu5/4ydGtmXvOtaH3AkVPu0A==",
+      "path": "common.logging.core/3.4.1",
+      "hashPath": "common.logging.core.3.4.1.nupkg.sha512"
+    },
+    "Google.Apis/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wnZJKPM7blcDzfTyMQ6kHvvDkd89a3C8m8uzTIJ8vrOdRqSAwHDE9nhht6GtcPe+sSfpuav0dX4RFAz2pKzp8w==",
+      "path": "google.apis/1.48.0",
+      "hashPath": "google.apis.1.48.0.nupkg.sha512"
+    },
+    "Google.Apis.AndroidPublisher.v3/1.48.0.2016": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KV/svMgGZJNPz13OgI4g9f9EYIAqgbGO6ZT707/w7A7XWEaaOkAr5ywCvmChYsfFhe9fnVockwDib+NYvAZaHw==",
+      "path": "google.apis.androidpublisher.v3/1.48.0.2016",
+      "hashPath": "google.apis.androidpublisher.v3.1.48.0.2016.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OwBOJLMr/4WH3svpoYjOhPu+GYN1N3sEsllBbMHxLYpfCKP13XheifjSnClzXnHuY19tDfN6aEwHpPv5jkG88Q==",
+      "path": "google.apis.auth/1.48.0",
+      "hashPath": "google.apis.auth.1.48.0.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DJ/2eNBneeqEJuTO0ZPNON9DdDMS2JXcHiszZ86MUNqPtQGhB3xbZoGg1p0sOfvGpyyoqsIMNeJXdSWUHB4E5g==",
+      "path": "google.apis.core/1.48.0",
+      "hashPath": "google.apis.core.1.48.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Moralis/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yDknKfVRWjTSqOZZOg+2CzDbsm5VIcVjFl3PjXnJ62HNr9FTxfYPzSwxZUvmImKdpIT919G0VpPgIBRTzI4OqQ==",
+      "path": "moralis/1.0.1",
+      "hashPath": "moralis.1.0.1.nupkg.sha512"
+    },
+    "Moralis.Web3Api/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MRJp8T9QoEX8tpnwKUdXkUAn8ZzbFuihtoI56/v4nNXbQ+MGCnaKVOXiHxZWClxM7qkSU875u2xPXrJpPUgPvQ==",
+      "path": "moralis.web3api/1.0.8",
+      "hashPath": "moralis.web3api.1.0.8.nupkg.sha512"
+    },
+    "Moralis.Web3Api.Core/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P3OfztgbHHmGeaWP3Y68YraOoaGjbL1XZASWkTApNkKik3K1Aqjs1gADxiRpbbqjuaV1QTC1S9fHIrYpFS+mMg==",
+      "path": "moralis.web3api.core/1.0.6",
+      "hashPath": "moralis.web3api.core.1.0.6.nupkg.sha512"
+    },
+    "NBitcoin.Secp256k1/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TCRUf7C44H/Hy42Ad1g0Dt83EfEH0l+4OuDhnWrzVsPBNiM6s6YRHnHYT+0dxGZKxD0CgdCTZ5f9Z2Ml1RRGbw==",
+      "path": "nbitcoin.secp256k1/1.0.3",
+      "hashPath": "nbitcoin.secp256k1.1.0.3.nupkg.sha512"
+    },
+    "Nethereum.ABI/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kqU4jv/jHbTU9wfndLEjm4YWuwKctVG1J+hWkSjBJMzaBwbieJ1j0YPA2r4IrQvCChcYgLkpDcec/kSZVv2/Jg==",
+      "path": "nethereum.abi/4.3.0",
+      "hashPath": "nethereum.abi.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Accounts/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fnYm/HC7leRi/HkMvL1EppQ2boEJtyfR5H/b5m3LfFKvSw5Hzuy8ewQqIi8/Oj6UZV/451ggjJxeUcQGzwccAA==",
+      "path": "nethereum.accounts/4.3.0",
+      "hashPath": "nethereum.accounts.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Autogen.ContractApi/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jMjr83L+H9gi4ENGHlRr1/yWYVGp8FJG7xJUsmYkYLl/tw0bLzJJeaxwm06769q6BTihADiSH+uKiPUChoVhXA==",
+      "path": "nethereum.autogen.contractapi/4.2.0",
+      "hashPath": "nethereum.autogen.contractapi.4.2.0.nupkg.sha512"
+    },
+    "Nethereum.BlockchainProcessing/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-60iQapgMgyFeDi4pXThJng5O7atqMGE+gaGj3r5cQMhY9UIqaL5HQHUlWtn9a7/wtVp7EMOwsQoCNpeQnZa00w==",
+      "path": "nethereum.blockchainprocessing/4.3.0",
+      "hashPath": "nethereum.blockchainprocessing.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Contracts/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EUhOs+Nm19NmdnzgqH3EjwS9lN6p6QPe2wKkoJjlWG8PT7iNjmQ3J8Hmbn8XPfYj3iCbf3QHvSz1DOO9i3wmcg==",
+      "path": "nethereum.contracts/4.3.0",
+      "hashPath": "nethereum.contracts.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Generators/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZUkuVX4eMKFpI4C1YbKJECQljmNOdHmxL76Bqs9N3D0sFJiJEcjaYmfZK5ozDRFqwdAolbtB8QUyKIDhgSss8w==",
+      "path": "nethereum.generators/4.3.0",
+      "hashPath": "nethereum.generators.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Generators.Net/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mmUB4XQG+vEq+RwPhg9pD7DIxucG4XIbVwzcOgleqNuv6hVVGWevK9H6ZTLl9PG69Jlw7acm1VpU1tU5reINrg==",
+      "path": "nethereum.generators.net/4.3.0",
+      "hashPath": "nethereum.generators.net.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Hex/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2ecBr1/dMcvHPwK/bhpcSpLreSm3s3N4zlQ5oY0weeNirI9QDmMnI3Wz0aWWl1xk0XKysvIGoEDYSMmHzSPB1Q==",
+      "path": "nethereum.hex/4.3.0",
+      "hashPath": "nethereum.hex.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.JsonRpc.Client/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TKFnzZKutt95LAsmRTTZRkRGS2dlVh0bTQTSQfZR2oArqZ0nDsf0+ScA6weIsQtyvHf0FG4rg4vJOlSJmedVjQ==",
+      "path": "nethereum.jsonrpc.client/4.3.0",
+      "hashPath": "nethereum.jsonrpc.client.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.JsonRpc.RpcClient/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZtGYe4qnWJTwyyk/9Noqox4YfwIzMMb+XWek7y4ZpRte+b2ADDxRMAWrP3PCji0jlyKlRnQmkSe+QVklcKNHvg==",
+      "path": "nethereum.jsonrpc.rpcclient/4.3.0",
+      "hashPath": "nethereum.jsonrpc.rpcclient.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.KeyStore/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LJdZ06nMmXTLfCxjhgKmwPFOUE4945iHyPGUQjf14ADU6ocnFs5JNjIsbmCQ6pryJPwJTWiQULsfXmkWgniG6Q==",
+      "path": "nethereum.keystore/4.3.0",
+      "hashPath": "nethereum.keystore.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Model/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aIu10kYDFWisqeE17y1fMVKd4wGMxcmpyFqtD+tJs14fvdIz3gaGWPwJgHMxz8qzXwSZ6/37gNNNPfBEZFnwQw==",
+      "path": "nethereum.model/4.3.0",
+      "hashPath": "nethereum.model.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.RLP/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/IplzjH6hkfNQoWXp+LhwvuTIfjWlWCxIgoBbQdxxQHs3Jb+lZQygRvq95vZK9ZVdLyukpZwiBp5i8rUbvG/hA==",
+      "path": "nethereum.rlp/4.3.0",
+      "hashPath": "nethereum.rlp.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.RPC/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aawD1mda0LULkXyST/fLSf0ZU3SJwj+skWgBYbFQRHZ24wJCr/yq+p1kSqf7R2+mAHmhXOcTXSn6rYY8RYhqXA==",
+      "path": "nethereum.rpc/4.3.0",
+      "hashPath": "nethereum.rpc.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Signer/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HlisBCMdF6pSy6C5DGsO3vZQ8Awucd2UNKTBqBVUFn7nrCorG/l0AFBrnFytanIExPrw0L+ln4KBvjckcwlesg==",
+      "path": "nethereum.signer/4.3.0",
+      "hashPath": "nethereum.signer.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Util/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yHPMfs4VG9j/tWx7rHh8AACnZSZrAn0p3SQI1G+UCgoZ4hccnZEIHa5cYdJ01nGLyVUR7wQh8LzZ6eMp8u93xA==",
+      "path": "nethereum.util/4.3.0",
+      "hashPath": "nethereum.util.4.3.0.nupkg.sha512"
+    },
+    "Nethereum.Web3/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Fu22jgug8WEX0nLw+a5XD2zCFN/bGFJz2w+xLzcHTbem6JzXRhhacauoUJdVGAL59+7STB4pH4Bsq05dvcxfA==",
+      "path": "nethereum.web3/4.3.0",
+      "hashPath": "nethereum.web3.4.3.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XpJVIhjPiO0o+DU36eeIzqnRilDmE8Z7Kfhm9V9o1yNqM3ikgleD94Z5W/LeEu3t63LaZl2CNJexaix+I6AUMg==",
+      "path": "portable.bouncycastle/1.8.2",
+      "hashPath": "portable.bouncycastle.1.8.2.nupkg.sha512"
+    },
+    "RestSharp/106.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-irOsQHe5nTJB0BKxGQnTX1dsgCPl5dLTxvL7gbl98JiFPiHMN4wpFyUG/66ZpaFCsIrPKh6XwozWXlwYe9JwYQ==",
+      "path": "restsharp/106.12.0",
+      "hashPath": "restsharp.106.12.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "unirest-netcore20/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-697U+ydDTMQreUn0rArcDbNNcsHBbsWTICuzv26hXhuLMq3kH9FK2DM5aI2J4xCu7tSCsGrDkSDUFOAA/9gfsw==",
+      "path": "unirest-netcore20/1.0.1",
+      "hashPath": "unirest-netcore20.1.0.1.nupkg.sha512"
+    },
+    "Unity3D.UnityEngine/2018.3.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-63ZCYwGdoBCmsJCUI6dodSY+1TrU/7lTDmfF+492Z6nn8my30E3sb5HXLe7qm7MLvBIcKz9TCy114yu5VGycKA==",
+      "path": "unity3d.unityengine/2018.3.5.1",
+      "hashPath": "unity3d.unityengine.2018.3.5.1.nupkg.sha512"
+    },
+    "TitanCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TitanDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "World/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorldGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9Bz97cfDTsqmUW13X4WqJKxpg/88KNH3+uJvqDzdTM7aSlT+2FuYbaq3nyNb//DRhPnsWNelZWa77pKdkJDMg==",
+  "success": true,
+  "projectFilePath": "/Users/wewlad/GitHub/FFserver2/TitanDatabase/TitanDatabase.csproj",
+  "expectedPackageFiles": [
+    "/Users/wewlad/.nuget/packages/awssdk.core/3.3.107.20/awssdk.core.3.3.107.20.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.dynamodbv2/3.3.106.17/awssdk.dynamodbv2.3.3.106.17.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.ec2/3.3.187.1/awssdk.ec2.3.3.187.1.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/awssdk.simpleemail/3.3.101.163/awssdk.simpleemail.3.3.101.163.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/wewlad/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

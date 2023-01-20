@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0304727f-7cfd-4eb6-92bf-6ebf143529a7": {
+      "ProjectGuid": "0304727f-7cfd-4eb6-92bf-6ebf143529a7",
+      "DisplayName": "ServerNode",
+      "ColorIndex": 0
+    },
+    "59883c30-37cf-4895-a81f-8a53e19f8759": {
+      "ProjectGuid": "59883c30-37cf-4895-a81f-8a53e19f8759",
+      "DisplayName": "TitanCore",
+      "ColorIndex": 1
+    },
+    "c29753c0-6625-4ee9-9c3f-28d062c04a74": {
+      "ProjectGuid": "c29753c0-6625-4ee9-9c3f-28d062c04a74",
+      "DisplayName": "TitanDatabase",
+      "ColorIndex": 2
+    },
+    "b8221705-2386-4c80-813b-0c15e383bbb7": {
+      "ProjectGuid": "b8221705-2386-4c80-813b-0c15e383bbb7",
+      "DisplayName": "WorldGen",
+      "ColorIndex": 3
+    },
+    "8f51488b-960c-4b3b-85b7-598ee9943c0a": {
+      "ProjectGuid": "8f51488b-960c-4b3b-85b7-598ee9943c0a",
+      "DisplayName": "NameReservationLoader",
+      "ColorIndex": 4
+    },
+    "ecd1e216-7d85-4c7c-b9e7-1b0c6e442e78": {
+      "ProjectGuid": "ecd1e216-7d85-4c7c-b9e7-1b0c6e442e78",
+      "DisplayName": "World",
+      "ColorIndex": 5
+    },
+    "865c0ab3-ab1d-43b3-a9fe-b7c8dbca364e": {
+      "ProjectGuid": "865c0ab3-ab1d-43b3-a9fe-b7c8dbca364e",
+      "DisplayName": "Run.Local.All",
+      "ColorIndex": 6
+    },
+    "08b0668c-4e5f-46f1-b399-16bea09b674e": {
+      "ProjectGuid": "08b0668c-4e5f-46f1-b399-16bea09b674e",
+      "DisplayName": "WebServer",
+      "ColorIndex": 7
+    },
+    "baf01e29-8e69-4996-8869-951bf0e00ec5": {
+      "ProjectGuid": "baf01e29-8e69-4996-8869-951bf0e00ec5",
+      "DisplayName": "ProgramNode",
+      "ColorIndex": 8
+    },
+    "b9ce68d6-81d5-4c0a-9999-431f43f5e784": {
+      "ProjectGuid": "b9ce68d6-81d5-4c0a-9999-431f43f5e784",
+      "DisplayName": "Run.Testing.WebServer",
+      "ColorIndex": 9
+    },
+    "5016a98d-9961-4532-82bc-3ddfec90c27b": {
+      "ProjectGuid": "5016a98d-9961-4532-82bc-3ddfec90c27b",
+      "DisplayName": "Run.Testing.WebServerNode",
+      "ColorIndex": 10
+    },
+    "297fc13e-f2cf-4094-b5aa-4dd704c1a8a5": {
+      "ProjectGuid": "297fc13e-f2cf-4094-b5aa-4dd704c1a8a5",
+      "DisplayName": "Run.Testing.World",
+      "ColorIndex": 11
+    },
+    "93657733-4adc-4742-80ff-d25d59f7eac4": {
+      "ProjectGuid": "93657733-4adc-4742-80ff-d25d59f7eac4",
+      "DisplayName": "Run.Testing.WorldNode",
+      "ColorIndex": 12
+    },
+    "4875e54c-521f-4bc7-a5dd-3223beee5cdd": {
+      "ProjectGuid": "4875e54c-521f-4bc7-a5dd-3223beee5cdd",
+      "DisplayName": "TestingPackager",
+      "ColorIndex": 13
+    },
+    "4b914bd7-7301-4f4b-9132-f5cfddf82492": {
+      "ProjectGuid": "4b914bd7-7301-4f4b-9132-f5cfddf82492",
+      "DisplayName": "Run.Prod.WorldNode",
+      "ColorIndex": 14
+    },
+    "23868558-c84c-48d6-a9bf-f5942658ccda": {
+      "ProjectGuid": "23868558-c84c-48d6-a9bf-f5942658ccda",
+      "DisplayName": "Run.Prod.World",
+      "ColorIndex": 15
+    },
+    "9f761a30-09a3-46bc-8a2f-7ea69cf2c5aa": {
+      "ProjectGuid": "9f761a30-09a3-46bc-8a2f-7ea69cf2c5aa",
+      "DisplayName": "Run.Prod.WebServerNode",
+      "ColorIndex": 0
+    },
+    "6503887b-8cfa-4d8d-9347-8c3337f1a83b": {
+      "ProjectGuid": "6503887b-8cfa-4d8d-9347-8c3337f1a83b",
+      "DisplayName": "Run.Prod.WebServer",
+      "ColorIndex": 1
+    },
+    "b6475ad8-6e2d-4583-8843-6d02890d6418": {
+      "ProjectGuid": "b6475ad8-6e2d-4583-8843-6d02890d6418",
+      "DisplayName": "ProdPackager",
+      "ColorIndex": 2
+    },
+    "0b7d4d83-feb8-4e3a-95e7-70c316b4699a": {
+      "ProjectGuid": "0b7d4d83-feb8-4e3a-95e7-70c316b4699a",
+      "DisplayName": "CheddarModule",
+      "ColorIndex": 3
+    },
+    "1df9ca6c-0e64-47af-8fc4-a0f536cb3503": {
+      "ProjectGuid": "1df9ca6c-0e64-47af-8fc4-a0f536cb3503",
+      "DisplayName": "CheddarPacker",
+      "ColorIndex": 4
+    },
+    "c1a73c00-8aaf-41d7-90a5-b259ba3f06c3": {
+      "ProjectGuid": "c1a73c00-8aaf-41d7-90a5-b259ba3f06c3",
+      "DisplayName": "PackageDownloader",
+      "ColorIndex": 5
+    },
+    "14154c72-4831-414d-b0e4-645c327734b4": {
+      "ProjectGuid": "14154c72-4831-414d-b0e4-645c327734b4",
+      "DisplayName": "Utils.NET",
+      "ColorIndex": 6
+    },
+    "86865f69-d83d-45d4-b1b5-1a376faac0a8": {
+      "ProjectGuid": "86865f69-d83d-45d4-b1b5-1a376faac0a8",
+      "DisplayName": "UpdatePackager",
+      "ColorIndex": 7
+    },
+    "c512eaba-3ebb-4c68-af1f-3aee75d34175": {
+      "ProjectGuid": "c512eaba-3ebb-4c68-af1f-3aee75d34175",
+      "DisplayName": "ServerBroadcaster",
+      "ColorIndex": 8
+    },
+    "61ceb0d6-71ba-4a07-bed6-2e7d1cd7c094": {
+      "ProjectGuid": "61ceb0d6-71ba-4a07-bed6-2e7d1cd7c094",
+      "DisplayName": "Broadcaster.Testing",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

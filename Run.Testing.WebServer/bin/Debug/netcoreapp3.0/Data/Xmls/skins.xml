@@ -1,0 +1,1046 @@
+﻿<Objects>
+  <Object id="0x5000" name="Dragon Warrior Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>DragonKnight</Set>
+    </Texture>
+
+    <Description>Unlocks the "Dragon Warrior" skin for a warrior.</Description>
+
+    <CharacterType>0x2</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5001" name="Mist Dancer Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>MistDancer</Set>
+    </Texture>
+
+    <Description>Unlocks the "Mist Dancer" skin for a bladeweaver.</Description>
+
+    <CharacterType>0x8</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5002" name="Soul Hunter Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>SoulRanger</Set>
+    </Texture>
+
+    <Description>Unlocks the "Soul Hunter" skin for a ranger.</Description>
+
+    <CharacterType>0x1</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5003" name="Plague Doctor Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>PlagueDoctor</Set>
+    </Texture>
+
+    <Description>Unlocks the "Plague Doctor" skin for a brewer.</Description>
+
+    <CharacterType>0xa</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5004" name="Prince of Sands Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>PrinceOfSands</Set>
+    </Texture>
+
+    <Description>Unlocks the "Prince of Sands" skin for a berserker.</Description>
+
+    <CharacterType>0x6</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5005" name="Baldweaver Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>Baldweaver</Set>
+    </Texture>
+
+    <Description>Unlocks the "Baldweaver" skin for a bladeweaver.</Description>
+
+    <CharacterType>0x8</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5006" name="Mannah's Guard Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>MannahsGuard</Set>
+    </Texture>
+
+    <Description>Unlocks the "Mannah's Guard" skin for a commander.</Description>
+
+    <CharacterType>0x3</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5007" name="Mythic Brotherhood Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>MythicBrotherhood</Set>
+      <Effect>MythicPixels</Effect>
+      <EffectPosition>Bottom</EffectPosition>
+    </Texture>
+
+    <Description>Unlocks the "Mythic Brotherhood" skin for a nomad.</Description>
+
+    <CharacterType>0x7</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5008" name="Crusading Commander Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>CrusadingKnight</Set>
+    </Texture>
+
+    <Description>Unlocks the "Crusading Commander" skin for a commander.</Description>
+
+    <CharacterType>0x3</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x5009" name="Black Lancer Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>BlackKnightSkin</Set>
+    </Texture>
+
+    <Description>Unlocks the "Black Lancer" skin for a lancer.</Description>
+
+    <CharacterType>0x4</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x500a" name="Crusading Minister Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>TemplarMinister</Set>
+    </Texture>
+
+    <Description>Unlocks the "Crusading Minister" skin for a minister.</Description>
+
+    <CharacterType>0x9</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+  <Object id="0x500b" name="Master of the Order Skin">
+    <Type>SkinUnlocker</Type>
+
+    <Texture>
+      <Type>Character</Type>
+      <Set>MasterOfTheOrder</Set>
+      <Effect>MasterOrderPixels</Effect>
+      <EffectPosition>Bottom</EffectPosition>
+    </Texture>
+
+    <Description>Unlocks the "Master of the Order" skin for an alchemist.</Description>
+
+    <CharacterType>0xc</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+  </Object>
+
+
+<Object id="0x500c" name="MimicOgre Skin">
+    <Type>SkinUnlocker</Type>
+    <Texture>
+    <Type>Character</Type>
+    <Set>MimicOgre</Set>
+    </Texture><Description>Unlocks the "MimicOgre" skin.</Description>
+    <CharacterType>0x1</CharacterType>
+    <Consumable/>
+    <Unlockable/>
+</Object>
+
+<Object id="0x500d" name="blueknight1 Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>blueknight1</Set>
+</Texture><Description>Unlocks the "blueknight1" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x500e" name="MimicRobot Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicRobot</Set>
+</Texture><Description>Unlocks the "MimicRobot" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x500f" name="icearcher Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>icearcher</Set>
+</Texture><Description>Unlocks the "icearcher" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5010" name="MimicDevil Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicDevil</Set>
+</Texture><Description>Unlocks the "MimicDevil" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5011" name="MimicOldOne Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicOldOne</Set>
+</Texture><Description>Unlocks the "MimicOldOne" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5012" name="MimicHuman Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicHuman</Set>
+</Texture><Description>Unlocks the "MimicHuman" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5013" name="WizardSkelly Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardSkelly</Set>
+</Texture><Description>Unlocks the "WizardSkelly" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5014" name="WizardGem Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardGem</Set>
+</Texture><Description>Unlocks the "WizardGem" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5015" name="chickenknight-export Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>chickenknight-export</Set>
+</Texture><Description>Unlocks the "chickenknight-export" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5016" name="ArcherImp Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherImp</Set>
+</Texture><Description>Unlocks the "ArcherImp" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5017" name="PriestOgre Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestOgre</Set>
+</Texture><Description>Unlocks the "PriestOgre" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5018" name="flameknightttt Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>flameknightttt</Set>
+</Texture><Description>Unlocks the "flameknightttt" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5019" name="KnightImp Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightImp</Set>
+</Texture><Description>Unlocks the "KnightImp" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x501a" name="MimicCyclops Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicCyclops</Set>
+</Texture><Description>Unlocks the "MimicCyclops" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x501b" name="PriestOldOne Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestOldOne</Set>
+</Texture><Description>Unlocks the "PriestOldOne" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x501c" name="PriestCyclops Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestCyclops</Set>
+</Texture><Description>Unlocks the "PriestCyclops" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x501d" name="PriestDevil Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestDevil</Set>
+</Texture><Description>Unlocks the "PriestDevil" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x501e" name="ArcherOldOne Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherOldOne</Set>
+</Texture><Description>Unlocks the "ArcherOldOne" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x501f" name="PriestRobot Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestRobot</Set>
+</Texture><Description>Unlocks the "PriestRobot" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5020" name="dogKnight Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>dogKnight</Set>
+</Texture><Description>Unlocks the "dogKnight" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5021" name="slime Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>slime</Set>
+</Texture><Description>Unlocks the "slime" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5022" name="ArcherGhost Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherGhost</Set>
+</Texture><Description>Unlocks the "ArcherGhost" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5023" name="PriestHuman Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestHuman</Set>
+</Texture><Description>Unlocks the "PriestHuman" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5024" name="octoguy Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>octoguy</Set>
+</Texture><Description>Unlocks the "octoguy" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5025" name="KnightRobot Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightRobot</Set>
+</Texture><Description>Unlocks the "KnightRobot" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5026" name="ArcherCyclops Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherCyclops</Set>
+</Texture><Description>Unlocks the "ArcherCyclops" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5027" name="perro Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>perro</Set>
+</Texture><Description>Unlocks the "perro" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5028" name="KnightDevil Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightDevil</Set>
+</Texture><Description>Unlocks the "KnightDevil" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5029" name="KnightOldOne Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightOldOne</Set>
+</Texture><Description>Unlocks the "KnightOldOne" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x502a" name="PriestGem Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestGem</Set>
+</Texture><Description>Unlocks the "PriestGem" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x502b" name="MimicImp Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicImp</Set>
+</Texture><Description>Unlocks the "MimicImp" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x502c" name="WizardUndead Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardUndead</Set>
+</Texture><Description>Unlocks the "WizardUndead" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x502d" name="KnightHuman Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightHuman</Set>
+</Texture><Description>Unlocks the "KnightHuman" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x502e" name="WizardDragon Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardDragon</Set>
+</Texture><Description>Unlocks the "WizardDragon" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x502f" name="WizardGhost Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardGhost</Set>
+</Texture><Description>Unlocks the "WizardGhost" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5030" name="PriestDragon Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestDragon</Set>
+</Texture><Description>Unlocks the "PriestDragon" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5031" name="ArcherRobot Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherRobot</Set>
+</Texture><Description>Unlocks the "ArcherRobot" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5032" name="PriestUndead Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestUndead</Set>
+</Texture><Description>Unlocks the "PriestUndead" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5033" name="chickenknight Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>chickenknight</Set>
+</Texture><Description>Unlocks the "chickenknight" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5034" name="PrestOgre Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PrestOgre</Set>
+</Texture><Description>Unlocks the "PrestOgre" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5035" name="ArcherDevil Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherDevil</Set>
+</Texture><Description>Unlocks the "ArcherDevil" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5036" name="KnightGem Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightGem</Set>
+</Texture><Description>Unlocks the "KnightGem" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5037" name="ArcherSkelly Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherSkelly</Set>
+</Texture><Description>Unlocks the "ArcherSkelly" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5038" name="ArcherHuman Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherHuman</Set>
+</Texture><Description>Unlocks the "ArcherHuman" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5039" name="ArcherGem Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherGem</Set>
+</Texture><Description>Unlocks the "ArcherGem" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x503a" name="PriestGhost Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestGhost</Set>
+</Texture><Description>Unlocks the "PriestGhost" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x503b" name="flamknight Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>flamknight</Set>
+</Texture><Description>Unlocks the "flamknight" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x503c" name="WizardImp Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardImp</Set>
+</Texture><Description>Unlocks the "WizardImp" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x503d" name="MimicDragon Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicDragon</Set>
+</Texture><Description>Unlocks the "MimicDragon" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x503e" name="KnightSkelly Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightSkelly</Set>
+</Texture><Description>Unlocks the "KnightSkelly" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x503f" name="WizardDevil Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardDevil</Set>
+</Texture><Description>Unlocks the "WizardDevil" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5040" name="WizardCyclops Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardCyclops</Set>
+</Texture><Description>Unlocks the "WizardCyclops" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5041" name="MimicUndead Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicUndead</Set>
+</Texture><Description>Unlocks the "MimicUndead" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5042" name="WizardRobot Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardRobot</Set>
+</Texture><Description>Unlocks the "WizardRobot" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5043" name="FIREKNIGHTLARGE Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>FIREKNIGHTLARGE</Set>
+</Texture><Description>Unlocks the "FIREKNIGHTLARGE" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5044" name="KnightGhost Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightGhost</Set>
+</Texture><Description>Unlocks the "KnightGhost" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5045" name="WizardHuman Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardHuman</Set>
+</Texture><Description>Unlocks the "WizardHuman" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5046" name="blueknight Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>blueknight</Set>
+</Texture><Description>Unlocks the "blueknight" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5047" name="ArcherOgre Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherOgre</Set>
+</Texture><Description>Unlocks the "ArcherOgre" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5048" name="KnightDragon Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightDragon</Set>
+</Texture><Description>Unlocks the "KnightDragon" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5049" name="MimicSkelly Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicSkelly</Set>
+</Texture><Description>Unlocks the "MimicSkelly" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x504a" name="WizardOldOne Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardOldOne</Set>
+</Texture><Description>Unlocks the "WizardOldOne" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x504b" name="KnightUndead Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightUndead</Set>
+</Texture><Description>Unlocks the "KnightUndead" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x504c" name="MimicGem Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicGem</Set>
+</Texture><Description>Unlocks the "MimicGem" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x504d" name="PriestImp Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestImp</Set>
+</Texture><Description>Unlocks the "PriestImp" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x504e" name="MimicGhost Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>MimicGhost</Set>
+</Texture><Description>Unlocks the "MimicGhost" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x504f" name="bluemage Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>bluemage</Set>
+</Texture><Description>Unlocks the "bluemage" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5050" name="KnightCyclops Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightCyclops</Set>
+</Texture><Description>Unlocks the "KnightCyclops" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5051" name="Fireman Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>Fireman</Set>
+</Texture><Description>Unlocks the "Fireman" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5052" name="Death Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>Death</Set>
+</Texture><Description>Unlocks the "Death" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5053" name="KnightOgre Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>KnightOgre</Set>
+</Texture><Description>Unlocks the "KnightOgre" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5054" name="PriestSkelly Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>PriestSkelly</Set>
+</Texture><Description>Unlocks the "PriestSkelly" skin.</Description>
+<CharacterType>0x9</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5055" name="WizardOgre Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>WizardOgre</Set>
+</Texture><Description>Unlocks the "WizardOgre" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5056" name="Siren Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>Siren</Set>
+</Texture><Description>Unlocks the "Siren" skin.</Description>
+<CharacterType>0xc</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5057" name="ArcherDragon Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherDragon</Set>
+</Texture><Description>Unlocks the "ArcherDragon" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5058" name="coinGuy Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>coinGuy</Set>
+</Texture><Description>Unlocks the "coinGuy" skin.</Description>
+<CharacterType>0x2</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+<Object id="0x5059" name="ArcherUndead Skin">
+<Type>SkinUnlocker</Type>
+<Texture>
+<Type>Character</Type>
+<Set>ArcherUndead</Set>
+</Texture><Description>Unlocks the "ArcherUndead" skin.</Description>
+<CharacterType>0x1</CharacterType>
+<Consumable/>
+<Unlockable/>
+</Object>
+
+
+</Objects>

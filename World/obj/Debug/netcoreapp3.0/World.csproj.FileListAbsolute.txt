@@ -1,0 +1,590 @@
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/World.deps.json
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/World.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/World.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/World/obj/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.deps.json
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.deps.json
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.deps.json
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.deps.json
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/World/obj/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/World.deps.json
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/World/obj/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/titan-server-key.json
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/dumir.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/gorge.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/mannahsfortress.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/rictornsgate.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Gates/valdoksforge.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/darkforest.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/desert.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/grasslands.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/oceanbeach.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/peaks.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/shallows.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Overworld/tundra.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/pets.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/balun.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/bhognin.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/npcs.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/mannah.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/rictorn.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Logic/Scripts/Titans/valdok.ls
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-1.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-2.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-3.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-4.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-5.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/Gates/Bhognin/bhognin-shape-6.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-bhognin-room.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bone-worm-room.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/gorge/bubra-camp.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/nexus.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/overworld.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-1.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-2.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate-3.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/rictornsgate.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/blacksmith.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/bothmurroom.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/house-1.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-blue.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-green.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/dumir/village-red.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/fireside.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/mannahsfortress.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksroom.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/valdoksspawn.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Map/Files/SetPieces/village.mef
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/World.deps.json
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/World.pdb
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/TitanCore.dll
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/TitanDatabase.dll
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Utils.NET.dll
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/WorldGen.dll
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/TitanCore.pdb
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/TitanDatabase.pdb
+/Users/wewlad/GitHub/FFserver2/World/bin/Debug/netcoreapp3.0/WorldGen.pdb
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.AssemblyInfo.cs
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.csproj.CopyComplete
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.dll
+/Users/wewlad/GitHub/FFserver2/World/obj/Debug/netcoreapp3.0/World.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\characters.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\enemies.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\items.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\lootbags.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\pets.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\projectiles.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\skins.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\staticobjects.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Data\Xmls\tiles.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\titan-server-key.json
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Gates\dumir.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Gates\gorge.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Gates\mannahsfortress.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Gates\rictornsgate.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Gates\valdoksforge.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\darkforest.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\desert.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\grasslands.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\oceanbeach.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\peaks.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\shallows.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Overworld\tundra.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\pets.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Titans\balun.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Titans\bhognin.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\npcs.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Titans\mannah.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Titans\rictorn.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Logic\Scripts\Titans\valdok.ls
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\Gates\Bhognin\bhognin-shape-1.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\Gates\Bhognin\bhognin-shape-2.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\Gates\Bhognin\bhognin-shape-3.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\Gates\Bhognin\bhognin-shape-4.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\Gates\Bhognin\bhognin-shape-5.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\Gates\Bhognin\bhognin-shape-6.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\gorge\bone-bhognin-room.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\gorge\bone-worm-room.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\gorge\bubra-camp.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\nexus.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\overworld.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\rictornsgate-1.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\rictornsgate-2.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\rictornsgate-3.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\rictornsgate.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\blacksmith.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\bothmurroom.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\dumir\house-1.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\dumir\village-blue.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\dumir\village-green.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\dumir\village-red.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\fireside.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\mannahsfortress.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\valdoksroom.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\valdoksspawn.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Map\Files\SetPieces\village.mef
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\World.deps.json
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\World.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\World.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\TitanCore.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\TitanDatabase.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Utils.NET.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\WorldGen.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\TitanCore.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\Utils.NET.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\TitanDatabase.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\bin\Debug\netcoreapp3.0\WorldGen.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\obj\Debug\netcoreapp3.0\World.csprojAssemblyReference.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\obj\Debug\netcoreapp3.0\World.AssemblyInfoInputs.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\obj\Debug\netcoreapp3.0\World.AssemblyInfo.cs
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\obj\Debug\netcoreapp3.0\World.csproj.CopyComplete
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\obj\Debug\netcoreapp3.0\World.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\World\obj\Debug\netcoreapp3.0\World.pdb

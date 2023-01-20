@@ -1,0 +1,192 @@
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+D:/Desktop/Trials-Of-Titan-main/Trials-Of-Titan-main/Server/Project-Titan/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+C:/Users/Administrator/Documents/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+C:/Users/Administrator/Documents/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/GitHub/FiatFighterz-Server/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/GitHub/FiatFighterz-Server 2/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/characters.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/enemies.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/items.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/lootbags.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/pets.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/projectiles.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/skins.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/staticobjects.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Data/Xmls/tiles.xml
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/WorldGen.deps.json
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/WorldGen.pdb
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/TitanCore.dll
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Utils.NET.dll
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/TitanCore.pdb
+/Users/wewlad/GitHub/FFserver2/WorldGen/bin/Debug/netstandard2.0/Utils.NET.pdb
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.AssemblyReference.cache
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfoInputs.cache
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.AssemblyInfo.cs
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CoreCompileInputs.cache
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.csproj.CopyComplete
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.dll
+/Users/wewlad/GitHub/FFserver2/WorldGen/obj/Debug/netstandard2.0/WorldGen.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\characters.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\enemies.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\items.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\lootbags.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\pets.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\projectiles.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\skins.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\staticobjects.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Data\Xmls\tiles.xml
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\WorldGen.deps.json
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\WorldGen.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\WorldGen.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\TitanCore.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Utils.NET.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\TitanCore.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\bin\Debug\netstandard2.0\Utils.NET.pdb
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.csprojAssemblyReference.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.Properties.Resources.resources
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.csproj.GenerateResource.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.AssemblyInfoInputs.cache
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.AssemblyInfo.cs
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.csproj.CopyComplete
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.dll
+G:\UnityProject\BlockChain Game\FiatFighterz\FiatFighterz-Server\WorldGen\obj\Debug\netstandard2.0\WorldGen.pdb

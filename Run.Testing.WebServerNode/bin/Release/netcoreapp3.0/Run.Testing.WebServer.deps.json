@@ -1,0 +1,286 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Run.Testing.WebServer/1.0.0": {
+        "dependencies": {
+          "ProgramNode": "1.0.0",
+          "Utils.NET": "1.0.0",
+          "WebServer": "1.0.0"
+        },
+        "runtime": {
+          "Run.Testing.WebServer.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.107.20": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.107.20"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.106.17": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.106.17"
+          }
+        }
+      },
+      "AWSSDK.EC2/3.3.187.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.EC2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.187.1"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.163": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.163"
+          }
+        }
+      },
+      "Google.Apis/1.48.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.48.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Google.Apis.AndroidPublisher.v3/1.48.0.2016": {
+        "dependencies": {
+          "Google.Apis": "1.48.0",
+          "Google.Apis.Auth": "1.48.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.AndroidPublisher.v3.dll": {
+            "assemblyVersion": "1.48.0.2016",
+            "fileVersion": "1.48.0.2016"
+          }
+        }
+      },
+      "Google.Apis.Auth/1.48.0": {
+        "dependencies": {
+          "Google.Apis": "1.48.0",
+          "Google.Apis.Core": "1.48.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          },
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Google.Apis.Core/1.48.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "ProgramNode/1.0.0": {
+        "dependencies": {
+          "ServerNode": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "ProgramNode.dll": {}
+        }
+      },
+      "ServerNode/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "ServerNode.dll": {}
+        }
+      },
+      "TitanCore/1.0.0": {
+        "dependencies": {
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanCore.dll": {}
+        }
+      },
+      "TitanDatabase/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.106.17",
+          "AWSSDK.EC2": "3.3.187.1",
+          "AWSSDK.SimpleEmail": "3.3.101.163",
+          "TitanCore": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "TitanDatabase.dll": {}
+        }
+      },
+      "Utils.NET/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Utils.NET.dll": {}
+        }
+      },
+      "WebServer/1.0.0": {
+        "dependencies": {
+          "Google.Apis.AndroidPublisher.v3": "1.48.0.2016",
+          "Newtonsoft.Json": "12.0.3",
+          "TitanCore": "1.0.0",
+          "TitanDatabase": "1.0.0",
+          "Utils.NET": "1.0.0"
+        },
+        "runtime": {
+          "WebServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Run.Testing.WebServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.107.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oLGgv5mtIddHwEEIw4Q0PnkgYLY+NIokPgMs19E7BPxdhrL3ePuaT+mublGGc0e3xuwjWSxWDjYChYYo8/CQGQ==",
+      "path": "awssdk.core/3.3.107.20",
+      "hashPath": "awssdk.core.3.3.107.20.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.106.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A8+xM4QK/UFEUlTgaJboicbYISqMCtNDJiIf1RianHh6Q9mNVh8A0xgVNSi1uQgXPR26gM9enaVFGTpiHae+DQ==",
+      "path": "awssdk.dynamodbv2/3.3.106.17",
+      "hashPath": "awssdk.dynamodbv2.3.3.106.17.nupkg.sha512"
+    },
+    "AWSSDK.EC2/3.3.187.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MSsJTS2OPALZ0v1qz4tSJn7EKIuydxAhPV8B0/TYMKg0hLnQZQMd8LEPolHxxUXZgwBS1tUujJM2M7zL2Q2Z0A==",
+      "path": "awssdk.ec2/3.3.187.1",
+      "hashPath": "awssdk.ec2.3.3.187.1.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.3.101.163": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4kR+2moW/fgOy4Ml+79GwRaqGax+rzW7ZQMUZ+pz8hJFXG/PqMbSHY2XhTLmIvQ+jbeKAYqqp4xxF6fkkMifg==",
+      "path": "awssdk.simpleemail/3.3.101.163",
+      "hashPath": "awssdk.simpleemail.3.3.101.163.nupkg.sha512"
+    },
+    "Google.Apis/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wnZJKPM7blcDzfTyMQ6kHvvDkd89a3C8m8uzTIJ8vrOdRqSAwHDE9nhht6GtcPe+sSfpuav0dX4RFAz2pKzp8w==",
+      "path": "google.apis/1.48.0",
+      "hashPath": "google.apis.1.48.0.nupkg.sha512"
+    },
+    "Google.Apis.AndroidPublisher.v3/1.48.0.2016": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KV/svMgGZJNPz13OgI4g9f9EYIAqgbGO6ZT707/w7A7XWEaaOkAr5ywCvmChYsfFhe9fnVockwDib+NYvAZaHw==",
+      "path": "google.apis.androidpublisher.v3/1.48.0.2016",
+      "hashPath": "google.apis.androidpublisher.v3.1.48.0.2016.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OwBOJLMr/4WH3svpoYjOhPu+GYN1N3sEsllBbMHxLYpfCKP13XheifjSnClzXnHuY19tDfN6aEwHpPv5jkG88Q==",
+      "path": "google.apis.auth/1.48.0",
+      "hashPath": "google.apis.auth.1.48.0.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DJ/2eNBneeqEJuTO0ZPNON9DdDMS2JXcHiszZ86MUNqPtQGhB3xbZoGg1p0sOfvGpyyoqsIMNeJXdSWUHB4E5g==",
+      "path": "google.apis.core/1.48.0",
+      "hashPath": "google.apis.core.1.48.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "ProgramNode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerNode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TitanCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TitanDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

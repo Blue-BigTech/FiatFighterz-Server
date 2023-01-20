@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\7swor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\UpdatePackager\\UpdatePackager.csproj",
+      "projectName": "UpdatePackager",
+      "projectPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\UpdatePackager\\UpdatePackager.csproj",
+      "packagesPath": "C:\\Users\\7swor\\.nuget\\packages\\",
+      "outputPath": "G:\\UnityProject\\BlockChain Game\\FiatFighterz\\FiatFighterz-Server\\UpdatePackager\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\7swor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj": {
+              "projectPath": "G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "G:\\UnityProject\\BlockChain Game\\Library\\Utils.NET\\Utils.NET\\Utils.NET.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}
